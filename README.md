@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a computer engineering student who loves working hard and learning about my field!
+I'm a computer engineering student who loves working hard and learning about new technologies!
 <!--
 **Aleyna-B/Aleyna-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
