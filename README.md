@@ -3,8 +3,8 @@ I'm a computer engineering student who loves working hard and learning about new
 <br>
 ### Hoş Geldiniz 👋
 Çalışmayı ve öğrenmeyi seven bir bilgisayar mühendisliği öğrencisiyim.
-<br>
--🔭 I’m currently working on Java backend development and Natural Language Processing
+<br><br>
+-🔭 I’m currently working on Java backend development and Natural Language Processing <br>
 -🔭 Şu anda Java backend geliştirme ve Doğal Dil İşleme üzerine çalışıyorum
 <!--
 **Aleyna-B/Aleyna-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
