@@ -1,11 +1,14 @@
 ### Hi there 👋
 I'm a computer engineering student who loves working hard and learning about new technologies!
 <br>
-### Hoş Geldiniz 👋
+### Merhaba 👋
 Çalışmayı ve öğrenmeyi seven bir bilgisayar mühendisliği öğrencisiyim.
 <br><br>
--🔭 I’m currently working on Java backend development and Natural Language Processing <br>
--🔭 Şu anda Java backend geliştirme ve Doğal Dil İşleme üzerine çalışıyorum
+-🔭 I’m currently working on improving my Java backend development skills with Spring framework.<br>
+-🌱 I’m interested in Natural Language Processing.
+
+-🔭 Şu anda Java backend geliştirme becerilerimi Spring framework ile ilerletmek için çalışıyorum.<br>
+-🌱 Doğal Dil İşleme konusuna ilgi duyuyorum.
 <!--
 **Aleyna-B/Aleyna-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
