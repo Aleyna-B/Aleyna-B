@@ -2,9 +2,9 @@
 I'm a computer engineering student who loves learning about new technologies!
 
 <br><br>
--🔭 I’m currently working on improving my Java backend development skills with Spring framework.<br>
--🌱 I’m interested in Natural Language Processing.
-- 🤔 Also learning Node.js
+🔭 I’m currently working on improving my Java backend development skills with Spring framework.<br>
+🌱 I’m interested in Natural Language Processing.
+🤔 Also learning Node.js
 <!--
 **Aleyna-B/Aleyna-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
