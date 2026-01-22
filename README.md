@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aleyna</h1>
 <h3 align="center">A computer engineering student who loves learning</h3>
 
-- 💬 I’m learning about **Spring Boot and Node.js**
+- 💬 I’m learning **Spring Boot and Node.js**
 
 - 🔭 I’m currently working on **multimodal deep learning**
 
